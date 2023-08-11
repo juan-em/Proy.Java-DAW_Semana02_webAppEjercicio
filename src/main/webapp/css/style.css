@@ -1,0 +1,45 @@
+
+@import "iconfont.css";
+@import "animate.min.css";
+
+body{
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+header h1{
+	color: #0bf397;
+}
+
+
+header{
+	padding: 150px 0px 0px 0px;
+	height: 960px;
+	background: url('../img/nepal.jpg');
+	background-color: white!important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 36px
+}
+
+header h1{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-weight: 300;
+	font-size: 100px;
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+
+p.lead{
+	font-size: 36px;
+	color: aliceblue;
+}
+
+a{
+	font-size: 35px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: aliceblue;
+}
+
